@@ -1,13 +1,13 @@
 # Overview
 
-This program demonstrates writing "Hello World" using JavaScript and manipulating the DOM.
+This program demonstrates the dynamic creation of "Hello World" using JavaScript and DOM manipulation. Additionally, there is a video explaining how it works.
 
 ## Development Environment
 
-I utilized the following tools:
+I used the following tools:
 
-- Visual Studio Code for coding
-- Live Server for real-time document refresh
+- **Visual Studio Code** for coding
+- **Live Server** for real-time document refresh
 
 ## Programming Languages
 
